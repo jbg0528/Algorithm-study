@@ -1,6 +1,6 @@
 let fs = require("fs");
 let input = fs
-  .readFileSync("/Users/jojo/Desktop/cpptest/input.txt")
+  .readFileSync("/Users/jojo/Desktop/Algorithm/Baekjoon/input.txt")
   .toString()
   .split("\n");
 let H;

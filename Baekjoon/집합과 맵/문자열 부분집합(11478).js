@@ -1,5 +1,5 @@
 const input = require("fs")
-  .readFileSync("/Users/jojo/Desktop/cpptest/input.txt")
+  .readFileSync("/Users/jojo/Desktop/Algorithm/Baekjoon/input.txt")
   .toString()
   .trim()
   .split("\n");
