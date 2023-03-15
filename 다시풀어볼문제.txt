@@ -2,6 +2,7 @@
 1. [https://www.acmicpc.net/problem/9020](https://www.acmicpc.net/problem/9020) (소수를 효율적으로 구하는 법)
 2. [https://www.acmicpc.net/problem/2563](https://www.acmicpc.net/problem/2563) (2차원 배열 중복 제거)
 3. [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751) (시간 단축)
+4. (https://www.acmicpc.net/problem/2477)
 
 프로그래머스
 1. [https://school.programmers.co.kr/learn/courses/30/lessons/120876](https://school.programmers.co.kr/learn/courses/30/lessons/120876) (알고리즘)
