@@ -1,5 +1,5 @@
 let input = require("fs")
-  .readFileSync("/Users/jojo/Desktop/Algorithm/Baekjoon/input.txt")
+  .readFileSync("/dev/stdin")
   .toString();
 
   let N = Number(input); // 원판의 갯수

@@ -1,5 +1,5 @@
 // let input = require("fs")
-//   .readFileSync("/Users/jojo/Desktop/Algorithm/Baekjoon/input.txt")
+//   .readFileSync("/dev/stdin")
 //   .toString()
 //   .split("\n");
 // let size = parseInt(input[0]);

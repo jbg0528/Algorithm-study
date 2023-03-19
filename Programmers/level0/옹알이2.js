@@ -1,5 +1,5 @@
 let fs = require("fs");
-let input = fs.readFileSync("/Users/jojo/Desktop/Algorithm/Baekjoon/input.txt").toString();
+let input = fs.readFileSync("/dev/stdin").toString();
 
 input = input.replace(/\"/g, "");
 input = input.replace(/\[/g, "");

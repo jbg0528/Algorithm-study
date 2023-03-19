@@ -1,5 +1,5 @@
 const [K, ...arr] = require("fs")
-  .readFileSync("/Users/jojo/Desktop/Algorithm/Baekjoon/input.txt")
+  .readFileSync("/dev/stdin")
   .toString()
   .trim()
   .split("\n")
